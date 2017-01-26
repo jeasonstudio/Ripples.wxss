@@ -31,7 +31,8 @@
     "gulp-postcss": "^6.1.0",
     "gulp-rename": "^1.2.2",
     "gulp-util": "^3.0.7",
-    "run-sequence": "^1.1.5"
+    "run-sequence": "^1.1.5",
+    "ripples.wxss": "0.1.0"
   },
   "spm": {
     "main": "./ripples.wxss"
