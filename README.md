@@ -1,2 +1,5 @@
-# ripples.wxss
-Ripples.wxss is a bunch of cool, fun, and cross-browser animations for you to use in your WeChatApps. Mostly from ripples.wxss.
+# Ripples.wxss
+
+Ripples.wxss 是一个为微信小程序量身定制的 css3 动效库，引领微交互的潮流。大部分动效源自 Animate.css。
+
+## 

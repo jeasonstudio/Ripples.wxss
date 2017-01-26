@@ -1,0 +1,10 @@
+.vscode/
+
+DEMO/
+
+node_modules/
+
+bower.json
+
+*.sh
+
