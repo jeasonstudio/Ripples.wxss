@@ -21,7 +21,7 @@ var activatedAnimations = activateAnimations();
 // Task options
 var opts = {
   destPath: './',
-  concatName: 'animate.css',
+  concatName: 'ripples.css',
 
   autoprefixer: {
     browsers: ['last 2 versions'],

@@ -25,7 +25,7 @@
   }
 }
 
-.animated.flip {
+.ripple.flip {
   backface-visibility: visible;
   animation-name: flip;
 }

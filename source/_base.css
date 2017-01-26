@@ -1,19 +1,19 @@
-.animated {
+.ripple {
 	animation-duration: 1s;
 	animation-fill-mode: both;
 }
 
-.animated.infinite {
+.ripple.infinite {
 	animation-iteration-count: infinite;
 }
 
-.animated.hinge {
+.ripple.hinge {
 	animation-duration: 2s;
 }
 
-.animated.flipOutX,
-.animated.flipOutY,
-.animated.bounceIn,
-.animated.bounceOut {
+.ripple.flipOutX,
+.ripple.flipOutY,
+.ripple.bounceIn,
+.ripple.bounceOut {
 	animation-duration: .75s;
 }

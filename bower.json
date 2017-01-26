@@ -1,6 +1,6 @@
 {
-  "name": "animate.css",
-  "main": "./animate.css",
+  "name": "ripples.css",
+  "main": "./ripples.css",
   "ignore": [
     ".*",
     "*.yml",
