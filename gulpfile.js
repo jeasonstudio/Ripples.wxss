@@ -95,9 +95,9 @@ function activateAnimations() {
   }
 
   if (!count) {
-    gutil.log('No animations activated.');
+    gutil.log('No ripples activated.');
   } else {
-    gutil.log(count + (count > 1 ? ' animations' : ' animation') + ' activated.');
+    gutil.log(count + (count > 1 ? ' ripples' : ' ripple') + ' activated.');
   }
 
   return target;

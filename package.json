@@ -1,6 +1,6 @@
 {
   "name": "ripples.css",
-  "version": "3.5.2",
+  "version": "0.1.0",
   "main": "ripples.css",
   "repository": {
     "type": "git",
@@ -8,6 +8,9 @@
   },
   "author": {
     "name": "Jeason"
+  },
+  "scripts": {
+    "start": "gulp default"
   },
   "homepage": "https://github.com/jeasonstudio/ripples.css",
   "license": "MIT",
