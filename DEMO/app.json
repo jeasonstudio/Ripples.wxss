@@ -1,0 +1,18 @@
+{
+	"pages": [
+		"pages/index/index"
+	],
+	"window": {
+		"navigationBarTextStyle": "wihte",
+		"navigationBarTitleText": "Ripples",
+		"navigationBarBackgroundColor": "#FF1493",
+		"backgroundColor": "#FFF"
+	},
+	"networkTimeout": {
+		"request": 20000,
+		"connectSocket": 20000,
+		"uploadFile": 20000,
+		"downloadFile": 20000
+	},
+	"debug": true
+}

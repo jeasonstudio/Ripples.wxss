@@ -1,0 +1,6 @@
+<!--login.wxml-->
+<view class="page">
+    <view class="exp" wx:for="{{expData}}" wx:key="{{index}}" id="{{item.name}}" bindtap="showThis">
+        <view class="inner ripple {{showName === item.name ? item.name:''}}">{{item.name}}</view>
+    </view>
+</view>
