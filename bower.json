@@ -1,6 +1,6 @@
 {
-  "name": "ripples.css",
-  "main": "./ripples.css",
+  "name": "ripples.wxss",
+  "main": "./ripples.wxss",
   "ignore": [
     ".*",
     "*.yml",
