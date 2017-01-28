@@ -31,9 +31,9 @@ npm install ripples.wxss --save
   * `wobble`
   * `jello`
   * `bounceIn`
-  * `bounceInDown`
-  * `bounceInLeft`
-  * `bounceInRight`
+  * -`bounceInDown`
+  * -`bounceInLeft`
+  * -`bounceInRight`
   * `bounceInUp`
   * `bounceOut`
   * `bounceOutDown`
@@ -42,11 +42,11 @@ npm install ripples.wxss --save
   * `bounceOutUp`
   * `fadeIn`
   * `fadeInDown`
-  * `fadeInDownBig`
+  * -`fadeInDownBig`
   * `fadeInLeft`
-  * `fadeInLeftBig`
+  * -`fadeInLeftBig`
   * `fadeInRight`
-  * `fadeInRightBig`
+  * -`fadeInRightBig`
   * `fadeInUp`
   * `fadeInUpBig`
   * `fadeOut`
