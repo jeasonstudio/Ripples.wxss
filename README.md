@@ -18,6 +18,10 @@ npm install ripples.wxss --save
 
  2. 如果你想让他循环不断播放，请添加 `infinite` class。
 
+ ```html
+ <view class="ripple infinite bounce">element</view>
+ ```
+
  3. 接下来你需要再添加如下你需要的 class：
 
   * `bounce`
