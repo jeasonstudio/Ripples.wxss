@@ -1,6 +1,6 @@
 # Ripples.wxss
 
-Ripples.wxss 是一个为微信小程序量身定制的 css3 动效库，引领微交互的潮流。大部分动效源自 Animate.css。
+Ripples.wxss 是一个为微信小程序量身定制的 css3 动效库，引领微交互的潮流。大部分动效源自 [Animate.css](https://daneden.github.io/animate.css/)。
 
 ## 安装
 
@@ -96,6 +96,8 @@ npm install ripples.wxss --save
   * `slideOutRight`
   * `slideOutUp`
 
+> 具体样式可以参考 [Animate.css](https://daneden.github.io/animate.css/)。
+
 ## 使用实例
 
  - 你可以查看根目录下的 DEMO 项目，为所有 Ripples.wxss 的综合展示：
@@ -124,12 +126,12 @@ npm install ripples.wxss --save
  ```
 
  ```css
- /* imdex.js */
+ /* imdex.wxss */
  @import "ripples.wxss";
  ```
 
  ```html
- <!--index.html-->
+ <!--index.wxml-->
 <view class="ripple {{bounceShow ? bounce:''}}">bounce</view>
  ```
 
